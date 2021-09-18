@@ -1,0 +1,11 @@
+.err {
+  background-color: #5f9595;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  display: block;
+  color: #fff;
+  font-size: xx-large;
+  font-family: Monaco;
+  padding-top: 25%;
+}
